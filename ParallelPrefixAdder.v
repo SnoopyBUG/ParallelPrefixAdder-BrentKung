@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company:  NUDT
+// Engineer: SnoopyBug
 // 
 // Create Date: 2023/03/24 09:26:11
-// Design Name: 
+// Design Name: ParallelPrefixAdder
 // Module Name: ParallelPrefixAdder-BKA
-// Project Name: 
+// Project Name: BKA
 // Target Devices: 
 // Tool Versions: 
 // Description: 
